@@ -387,7 +387,7 @@
             "AU_DESC": "Sends the replied audio as spam.",
             "AU_REP": "```Please Only Reply To Audio File!```",
             "FOTO_DESC": "Sends the replied photo as spam.",
-            "FOTO_FOT": "```Please Reply To Any Picture!```",
+            "FOTO_FOT": "```Please Reply  Any Picture!```",
             "VİD_DESC": "Sends the replied video as spam.",
             "VİD_NEED": "```Please Reply to Any Video!```"
         },
